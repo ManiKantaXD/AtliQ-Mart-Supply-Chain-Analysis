@@ -32,3 +32,9 @@ Peter Pandey is the data analyst in the supply chain team who joined Atliq Mart 
 
 5. From Product insights, we can observe that our **AM Milk products are our top products having the highest number of orders (also in delayed deliveries)**, and the AM GHEE products being the lowest. We can increase the supply of AM Milk products so that they can be delivered in full and can decrease the supply of AM Ghee products as well.
 
+
+<sub>Attribution to Icon Authors:</sub>
+* home button and filter button : <a href="https://www.flaticon.com/free-icons/home-button" title="home button icons">Home button icons created by Freepik - Flaticon</a>
+* truck and orders button: <a href="https://www.flaticon.com/free-icons/order" title="order icons">Order icons created by Eucalyp - Flaticon</a>
+* product insights button : <a href="https://www.flaticon.com/free-icons/supply-chain-management" title="supply chain management icons">Supply chain management icons created by Freepik - Flaticon</a>
+* overview button: <a href="https://www.flaticon.com/free-icons/overview" title="overview icons">Overview icons created by lapiyee - Flaticon</a></sup>
