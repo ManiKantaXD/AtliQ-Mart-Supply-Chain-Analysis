@@ -15,8 +15,10 @@ Peter Pandey is the data analyst in the supply chain team who joined Atliq Mart 
 3. Create relevant insights that are not provided in the metric list/stakeholder meeting.
 
 ### The Dashboard:
-<img width="470" alt="cover_page" src="https://user-images.githubusercontent.com/88147205/200592539-22587a01-628a-4015-9690-cf2b227d1810.PNG">| <img width="470" alt="productInsights" src="https://user-images.githubusercontent.com/88147205/200592732-e5413495-41de-4c9c-94e2-53e20b2486ee.PNG">
-<img width="470" alt="orderInsights" src="https://user-images.githubusercontent.com/88147205/200592725-f59b645b-993d-4f7b-8436-1fa9f2a61ae9.PNG">| <img width="470" alt="Overview_with_filters" src="https://user-images.githubusercontent.com/88147205/200596021-c4d51bcf-1cb9-4b9b-a5c8-7f191b3dea8d.PNG">
+<img width="570" alt="cover_page" src="https://user-images.githubusercontent.com/88147205/200592539-22587a01-628a-4015-9690-cf2b227d1810.PNG"> 
+<img width="570" alt="productInsights" src="https://user-images.githubusercontent.com/88147205/200592732-e5413495-41de-4c9c-94e2-53e20b2486ee.PNG">
+<img width="570" alt="orderInsights" src="https://user-images.githubusercontent.com/88147205/200592725-f59b645b-993d-4f7b-8436-1fa9f2a61ae9.PNG">
+<img width="570" alt="Overview_with_filters" src="https://user-images.githubusercontent.com/88147205/200596021-c4d51bcf-1cb9-4b9b-a5c8-7f191b3dea8d.PNG">
 
 ### Key Insights:
 
